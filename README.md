@@ -1,6 +1,6 @@
 # T3 Gallery
 
-- [] make it deploy
+- [x] make it deploy
 - [] basic ui with mock data
 - [] Actually set up a database
 - [] Attach database to UI
